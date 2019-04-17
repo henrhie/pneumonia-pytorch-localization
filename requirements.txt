@@ -1,5 +1,4 @@
-***** REQUIREMENTS *****
-+ Pytorch (torch)
++ Pytorch 
 + Torchvision
 + Numpy
 + Matplotlib
